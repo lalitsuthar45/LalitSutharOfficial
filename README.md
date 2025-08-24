@@ -11,7 +11,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/lalit-suthar445646334" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/lalit-suthar-445646334" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://instagram.com/lucky_str_45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" /></a>
 </p>
 
