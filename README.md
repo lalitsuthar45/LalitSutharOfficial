@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Lalit Suthar**, a passionate **Software Developer & DevOps Enthusiast with AI Integration** based in India.  
+Hi! I'm **Lalit Suthar**.  
 I love building impactful digital solutions and always strive to learn and grow in the world of technology.
 
 ### 🚀 What I'm Up To:
@@ -15,7 +15,7 @@ I love building impactful digital solutions and always strive to learn and grow 
 - ⚡ **Fun fact**: I can debug code faster with coffee than without it! ☕
 
 ### 🌐 Find Me Online:
-- 🌍 **Website**: [lalitsuthar.me](https://lalitsuthar.me) *(My personal portfolio)*  
+- 🌍 **Website**: [lalitsuthar.me](https://lalitsuthar45.github.io) *(My personal portfolio)*  
 - 📧 **Email**: [lalitsuthar45@gmail.com](mailto:lalitsuthar45@gmail.com)  
 
 <h3 align="left">🎯 Let's Connect!</h3>
