@@ -26,9 +26,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats:
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitsuthar45&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitsuthar45&layout=compact&theme=radical)
