@@ -7,7 +7,7 @@
   <img width="900" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&font-size=900&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;[Code+Smarter];+[Build+Better];+[Innovate+Faster];" alt="Animated typing text displaying Hi there! I'm Lalit Suthar and Welcome to my GitHub profile in bright cyan blue Fira Code font with typewriter effect animation" />
 </p>
 <h1 align="center">Hi 👋, I'm Lalit Suthar</h1>
-<h3 align="center">Software Developer & AI/ML Enthusiast from India</h3>
+<h3 align="center">Software Developer </h3>
 
 ## 👨‍💻 About Me
 
