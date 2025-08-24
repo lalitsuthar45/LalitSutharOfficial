@@ -27,14 +27,14 @@ I love building impactful digital solutions and always strive to learn and grow 
 
 <h3 align="left">🎯 Let's Connect!</h3>
 <p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank">
+  <a href="https://twitter.com/lalitsuthar791" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="twitter" height="70" width="80" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <a href="https://linkedin.com/in/lalit-suthar445646334" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="70" width="80" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="70" width="80" />
+  <a href="https://instagram.com/lucky_str_45" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="instagram" height="70" width="80" />
   </a>
 </p>
 
