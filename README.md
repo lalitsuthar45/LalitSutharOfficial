@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**LalitSutharOfficial/LalitSutharOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Lalit Suthar</h1>
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C++, Web Development**
+- 💬 Ask me about **C, C++, HTML, CSS, JavaScript**
+- 📫 How to reach me: **lalitsuthar45@gmail.com**
+- ⚡ Fun fact: I love cricket 🏏 and coding 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://instagram.com/YOUR-INSTAGRAM" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitsuthar45&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitsuthar45&layout=compact&theme=radical)
