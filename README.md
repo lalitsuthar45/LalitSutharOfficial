@@ -34,7 +34,7 @@ I love building impactful digital solutions and always strive to learn and grow 
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="70" width="80" />
   </a>
   <a href="https://instagram.com/lucky_str_45" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="instagram" height="70" width="80" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="70" width="80" />
   </a>
 </p>
 
