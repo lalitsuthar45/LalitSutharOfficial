@@ -16,9 +16,7 @@ I love building impactful digital solutions and always strive to learn and grow 
 
 ### 🚀 What I'm Up To:
 - 💻 **Currently working on**: exciting web development & AI projects
-- 🌱 **Always learning**: Kubernetes, Microservices Architecture, and Advanced React patterns
-- 🤝 **Open to collaboration on**: Open source projects, innovative startups, and freelance opportunities
-- 💬 **Ask me about**: React, Node.js, Python, Docker, AWS, and DevOps best practices
+- 💬 **Ask me about**: c,c++, java, java script, html and css best practices
 - ⚡ **Fun fact**: I can debug code faster with coffee than without it! ☕
 
 ### 🌐 Find Me Online:
