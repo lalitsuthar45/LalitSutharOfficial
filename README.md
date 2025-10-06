@@ -28,7 +28,7 @@ I'm currently pursuing my studies while working on exciting **Java** and **Web D
 
 ## 🌐 Find Me Online:
 
-- 🌍 **Website:** [lalitsuthar.me](https://lalitsuthar50.github.io)  
+- 🌍 **Website:** [lalitsuthar45.github.io](https://lalitsuthar50.github.io)  
 - 📧 **Email:** [lalitsuthar45@gmail.com](mailto:lalitsuthar45@gmail.com)  
 
 <h3 align="left">🎯 Let's Connect!</h3>
