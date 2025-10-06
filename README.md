@@ -65,10 +65,6 @@ I'm currently pursuing my studies while working on exciting **Java** and **Web D
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LalitSutharOfficial&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ---
 
 <div align="center">
