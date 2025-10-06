@@ -39,7 +39,7 @@ I'm currently pursuing my studies while working on exciting **Java** and **Web D
   <a href="https://linkedin.com/in/lalit-suthar445646334" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="70" width="80" />
   </a>
-  <a href="https://instagram.com/lucky_str_45" target="blank">
+  <a href="https://instagram.com/lalit_suthar_45" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="70" width="80" />
   </a>
 </p>
