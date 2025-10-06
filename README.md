@@ -60,7 +60,7 @@ I'm currently pursuing my studies while working on exciting **Java** and **Web D
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LalitSutharOfficial&show_icons=true&count_private=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff" alt="Lalit Suthar GitHub Stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitSutharOfficial&layout=compact&hide_border=true&title_color=ff652f&text_color=ff652f&bg_color=09131B" alt="Top Languages" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitsuthar45&layout=compact&hide_border=true&title_color=ff652f&text_color=ff652f&bg_color=09131B" alt="Top Languages" />
 </div>
 
 ---
