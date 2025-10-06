@@ -71,20 +71,6 @@ I'm currently pursuing my studies while working on exciting **Java** and **Web D
 
 ---
 
-## 📈 Activity Graph:
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LalitSutharOfficial&bg_color=09131B&color=ff652f&line=FFE400&point=ff652f&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=LalitSutharOfficial&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19&height=100&section=footer"/>
 </div>
