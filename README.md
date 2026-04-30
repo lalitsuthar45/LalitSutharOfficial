@@ -19,7 +19,7 @@ Hey there! I'm **Lalit Suthar**, a passionate learner who enjoys **creating impa
 I'm currently pursuing my studies while working on exciting **Java** and **Web Development** projects.
 
 ### 🎯 What I'm Doing:
-- 📚 **Currently learning:** Java (Core + OOP Concepts)  
+- 📚 **Currently learning:** Python  
 - 💻 **Building:** Projects using HTML, CSS, Java, and MySQL  
 - 🧠 **Languages I Know:** C, C++, HTML, CSS, Java, MySQL  
 - ⚡ **Fun fact:** I debug better after a good cup of coffee ☕
