@@ -38,32 +38,12 @@ I'm currently pursuing my studies while working on exciting **python** and **Web
   </a>
   <a href="https://linkedin.com/in/lalit-suthar445646334" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="70" width="80" />
-  </a>
-  <a href="https://instagram.com/lalit_suthar_45" target="_blank">
-  <img class="insta-icon"
-       src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
-       alt="Instagram"
-       height="70"
-       width="80">
+ </a> <a href="https://instagram.com/lalit_suthar_45" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="70" width="80"
 </a>
 
-<style>
-.insta-icon{
-  transition: transform 0.3s ease;
-  animation: bounce 2s infinite;
-}
 
-.insta-icon:hover{
-  transform: scale(1.2);
-}
 
-@keyframes bounce{
-  0%,100%{transform:translateY(0);}
-  50%{transform:translateY(-10px);}
-}
-</style>
 
-Agar aap GitHub README me use kar rahe hain, to CSS kaam nahi karegi. Us case me animated GIF hi use karni padegi. GitHub README ke liye hai ya website ke liye?/>
   </a>
 </p>
 
